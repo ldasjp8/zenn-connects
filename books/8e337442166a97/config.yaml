@@ -1,0 +1,9 @@
+title: "はじめての本"
+summary: "初めての本です。"
+topics: ["omeka"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - example1
+  - example2
